@@ -7,6 +7,6 @@ function reverseWords(chain) {
     return result;
 }
 
-let text = "I am not perfect, for imperfect nor am I";
+let text = "Crazy? Not me. Are you crazy?";
 let result = reverseWords(text);
 console.log(result);
